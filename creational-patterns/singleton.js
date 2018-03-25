@@ -29,9 +29,7 @@ class SoundManager {
 
   pause() {
     console.log('pause');
-    return 'paused no way';
-
-    
+    return 'already paused';    
   }
 }
 
