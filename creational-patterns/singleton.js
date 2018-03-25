@@ -26,4 +26,8 @@ class SoundManager {
   stop() {
     return 'stopped';
   }
+
+  pause() {
+    return 'paused';
+  }
 }
