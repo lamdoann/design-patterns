@@ -27,3 +27,5 @@ class SoundManager {
     return 'stopped';
   }
 }
+
+SoundManager.getInstance().load('source');
