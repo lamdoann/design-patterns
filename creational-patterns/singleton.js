@@ -26,6 +26,10 @@ class SoundManager {
   stop() {
     return 'stopped';
   }
+
+  pause() {
+    console.log('pause');
+  }
 }
 
 SoundManager.getInstance().load('source');
