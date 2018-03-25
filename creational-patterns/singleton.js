@@ -31,7 +31,7 @@ class SoundManager {
     console.log('pause');
 
     
-    return 'paused';
+    return 'already paused';
 
     
   }
