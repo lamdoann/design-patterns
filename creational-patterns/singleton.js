@@ -29,11 +29,7 @@ class SoundManager {
 
   pause() {
     console.log('pause');
-
-    
-    return 'already paused';
-
-    
+    return 'already paused';    
   }
 }
 
