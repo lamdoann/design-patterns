@@ -17,7 +17,6 @@ class Adapter extends Adaptee {
   constructor(opts) {
     super(opts);
   }
-
    
   // Implement method based on IAdapter interface
   connect() {
